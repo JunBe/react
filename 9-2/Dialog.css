@@ -1,0 +1,20 @@
+.frame-blue{
+    border-width: 50px 5px 5px 5px;
+    border-style:solid;
+    border-color:blue;
+}
+.frame-yellow{
+    border-width: 50px 5px 5px 5px;
+    border-style:solid;
+    border-color:yellow;
+}
+.frame-black{
+    border-width: 50px 5px 5px 5px;
+    border-style:solid;
+    border-color:black;
+}
+.frame-red{
+    border-width: 50px 5px 5px 5px;
+    border-style:solid;
+    border-color:red;
+}
